@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">444247084504-oiancgibhbvutgh0pc41ea47v43pbck0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">444247084504</string>
+    <string name="google_api_key" translatable="false">AIzaSyDbtrAU8QKKU2B195c6l8eYcQxYUtbXgbs</string>
+    <string name="google_app_id" translatable="false">1:444247084504:android:951efe9037d7a140ea36ad</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDbtrAU8QKKU2B195c6l8eYcQxYUtbXgbs</string>
+    <string name="google_storage_bucket" translatable="false">food-order-da00b.appspot.com</string>
+    <string name="project_id" translatable="false">food-order-da00b</string>
+</resources>
